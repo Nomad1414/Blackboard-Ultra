@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://lms.seu.edu.sa/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      Nomad1414
 // @description 02/02/2021, 15:52:38
 // @updateURL   https://github.com/Nomad1414/Blackboard-Ultra/raw/main/SEUBlackBoard.user.js
