@@ -6,6 +6,8 @@
 // @version     1.0
 // @author      Nomad1414
 // @description 02/02/2021, 15:52:38
+// @updateURL   https://github.com/Nomad1414/Blackboard-Ultra/raw/main/SEUBlackBoard.user.js
+// @downloadURL https://github.com/Nomad1414/Blackboard-Ultra/raw/main/SEUBlackBoard.user.js
 // ==/UserScript==
 
 const course = ["/webapps/collab-ultra/tool/collabultra?course_id=_94453_1", "/webapps/collab-ultra/tool/collabultra?course_id=_94005_1",
