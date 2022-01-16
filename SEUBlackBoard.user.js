@@ -10,10 +10,10 @@
 // @downloadURL https://github.com/Nomad1414/Blackboard-Ultra/raw/main/SEUBlackBoard.user.js
 // ==/UserScript==
 
-const course = ["/webapps/collab-ultra/tool/collabultra?course_id=_94453_1", "/webapps/collab-ultra/tool/collabultra?course_id=_94005_1",
-    "/webapps/collab-ultra/tool/collabultra?course_id=_94126_1"
+const course = ["/webapps/collab-ultra/tool/collabultra?course_id=_101924_1", "/webapps/collab-ultra/tool/collabultra?course_id=_101901_1",
+    "/webapps/collab-ultra/tool/collabultra?course_id=_101839_1","/webapps/collab-ultra/tool/collabultra?course_id=_101940_1"
 ];
-const Names = ["--IT-270--", "--IT230--", "--IT340--"];
+const Names = ["--IT-448--", "--IT-446--", "--IT440--","IT-490"];
 
 try {
     for (let j = 0; j <= 4; j++) {
